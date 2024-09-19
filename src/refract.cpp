@@ -62,7 +62,7 @@ void Refract(std::vector<Eigen::Vector3d> normals, std::vector<Eigen::Vector3d>*
 
 void CalculateIntersections(std::vector<Eigen::Vector3d> vertices, std::vector<Eigen::Vector3d> refracteds, std::vector<Eigen::Vector2d>* intersections, double receiver_plane) {	//returns the points on the receiver plane where the light rays from each vertex intersect
 
-	intersections->clear();	//clear the 
+	intersections->clear();	//clear the intersections every time we call the function 
 	int numPoints = int(vertices.size());
 
 	for (int i = 0; i < numPoints; i++) {
