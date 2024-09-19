@@ -19,7 +19,7 @@ Make sure to include these when building the program.
 5. If successful, the display window will open shortly and the caustics pattern will be shown.
 <br>The window can be resized to make the pattern more clear.
 <br>Pressing W and S will increase or decrease the receiver plane distance, respectively, in order to fine-tune the spacing.
-<br>Pressing Q will display the current distance.
+<br>Pressing Q will display the current distance in the console.
 
 ## Sample Screenshots
 
