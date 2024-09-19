@@ -39,5 +39,5 @@ Make sure to include these when building the program.
 
 ### Caustics image
 
-![caustics](./img/caustics.png)
-<br>(The display window was resized to be larger to make the image more clear, the program will start at 256x256 resolution. It may look a little funky in the README but you can make out the fox, full resolution in ./img/target.png!)
+![caustics](./img/causticsSMALL.png)
+<br>(The display window was resized to be larger to make the image more clear, the program will start at 256x256 resolution. It may look a little funky in the README but you can still make out the image, full resolution in ./img/caustics.png!)
